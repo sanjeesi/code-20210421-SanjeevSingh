@@ -4,9 +4,9 @@ BMI Calculator is a Python code for calculating BMI using Weight(kg) and Height(
 
 ## Required libraries
 
-pandas
+* pandas
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas.
 
 ```bash
 pip install pandas
@@ -17,6 +17,16 @@ pip install pandas
 ```python
 Python 3.9
 ```
+
+## How to run?
+* Clone the repository to your machine
+* Open terminal
+* cd **code-20210421-SanjeevSingh**
+* python3 **calculator.py**
+
+Check output in console.
+
+
 
 ## Connect with me?
 [LinkedIn](https://www.linkedin.com/in/sanjeesi/)
